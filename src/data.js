@@ -99,9 +99,7 @@ module.exports = {
   work: [
     { org: 'Symmetra', role: { fi: 'Harjoittelija, fullstack-kehitys', en: 'Intern, full-stack development' }, when: { fi: '1.9.2026 – 1.1.2027', en: '1 Sep 2026 – 1 Jan 2027' },
       points: { fi: ['Asiakasportaalin suunnittelu ja toteutus yksin: React, NestJS, PostgreSQL ja Docker', 'Tuotantoympäristö, varmuuskopiot ja automaattiset testit'], en: ['Designing and building a customer portal on my own: React, NestJS, PostgreSQL and Docker', 'Production environment, backups and automated tests'] } },
-    { org: 'Nokia', role: { fi: 'SMD-operaattori', en: 'SMD operator' }, when: { fi: 'toukokuu 2026 – elokuu 2026', en: 'May 2026 – August 2026' },
-      points: { fi: ['SMD-piirilevyjen kokoonpanon ylläpito', 'Tuotantotyö linjalla'], en: ['Maintaining SMD circuit board assembly', 'Production line work'] } },
-    { org: 'Nokia', role: { fi: 'SMD-operaattori', en: 'SMD operator' }, when: { fi: 'kesäkuu 2025 – elokuu 2025', en: 'June 2025 – August 2025' },
+    { org: 'Nokia', role: { fi: 'SMD-operaattori (kesätyö)', en: 'SMD operator (summer job)' }, when: { fi: 'kesät 2025 ja 2026', en: 'summers 2025 and 2026' },
       points: { fi: ['SMD-piirilevyjen kokoonpanon ylläpito', 'Tuotantotyö linjalla'], en: ['Maintaining SMD circuit board assembly', 'Production line work'] } },
     { org: 'Nets Denmark A/S (Eila-Kaisla Oy)', role: { fi: 'Customer service agent', en: 'Customer service agent' }, when: { fi: 'tammikuu 2020 – elokuu 2020', en: 'January 2020 – August 2020' },
       points: { fi: ['Tekninen tuki yritysasiakkaille', 'Maksupäätetuki, laskutus ja verkkoneuvonta'], en: ['Technical support for business customers', 'Payment terminal support, invoicing and online guidance'] } },
